@@ -1,0 +1,4 @@
+{
+  "ding": {"sounds": [{"name": "visuals:ding", "stream": false}]},
+  "ding2": {"sounds": [{"name": "visuals:ding2", "stream": false}]}
+}
